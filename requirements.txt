@@ -1,0 +1,11 @@
+Projects
+Id
+Name
+Hours
+Owner (User Subject Id) Dropdown in the UI UserName as the TextField and Subject Id as dropdown value.
+
+When I log in I can see only my projects
+Only Manager role can create new project
+
+Authorization policy
+Based on the claims max hours can be logged
